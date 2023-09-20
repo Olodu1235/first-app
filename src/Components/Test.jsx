@@ -1,4 +1,4 @@
-import { cn } from "../utils/class";
+import { cn, newLandingPaddingHorizontal } from "../utils/class";
 
 export default function Test() {
   return (
